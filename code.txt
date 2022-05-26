@@ -1,4 +1,0 @@
-conda create -n probc
-conda activate probc
-
-# marker data: train.marklist
